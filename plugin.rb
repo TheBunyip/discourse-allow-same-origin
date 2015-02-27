@@ -1,4 +1,3 @@
-file: plugins/yoursite/plugin.rb
 # name: allowsameorigin
 # about: allows Discourse site to be embedded in HTML iframe
 # version: 1
